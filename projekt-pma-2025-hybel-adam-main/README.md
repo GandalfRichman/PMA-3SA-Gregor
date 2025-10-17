@@ -93,8 +93,13 @@ jednoduchosť, responzívnosť, stabilita, notifikácie po súhlase, moderný di
 
 **Markdown varianta**
 ```md
-![Prihlásenie](docs/screens/login.png)
-![Zoznam nálezov](docs/screens/list.png)
-![Detail položky](docs/screens/detail.png)
+![Prihlásenie](assets/screenshots/prihlasenie.png)
+![Registrácia](assets/screenshots/registracia.png)
+![Zoznam nálezov](assets/screenshots/domov.png)
+![Pridať nález](assets/screenshots/pridat_nalez.png)
+![Detail položky](assets/screenshots/detail_polozky.png)
+![Moje položky](assets/screenshots/moje_polozky.png)
+![Nastavenia1](assets/screenshots/nastavenia1.png)
+![Nastavenia2](assets/screenshots/nastavenia2.png)
 `
 
